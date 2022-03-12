@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sampa
+ *
+ */
+module Variabletype {
+}
